@@ -28,13 +28,12 @@ Built using TensorFlow/Keras and deployed with Streamlit for real-time inference
 - Dense layers with ReLU
 - Sigmoid output for binary classification
 - Input size: 128 × 128 × 3
-  
----
 
 ---
-
+## 📊 Results
+Achieved ~79% validation accuracy with consistent training performance.
+---
 ## 🧩 Installation & Setup
-
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/anand193/laptop-price-prediction.git
