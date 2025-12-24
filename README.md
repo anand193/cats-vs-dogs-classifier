@@ -5,6 +5,7 @@ Built using TensorFlow/Keras and deployed with Streamlit for real-time inference
 
 ---
 🌐 **Deployed App (Streamlit Cloud):** [Click Here to Try It!](https://cats-vs-dogs-classifier-duuzpz2mmuyq6nuzerqovw.streamlit.app/)
+
 ---
 ## 🚀 Features
 
@@ -31,7 +32,9 @@ Built using TensorFlow/Keras and deployed with Streamlit for real-time inference
 
 ---
 ## 📊 Results
+
 Achieved ~79% validation accuracy with consistent training performance.
+
 ---
 ## 🧩 Installation & Setup
 ### 1️⃣ Clone the repository
